@@ -1,6 +1,5 @@
 Keylogger with Encryption and Secure Logging
 
-Description
 This keylogger program captures and logs keystrokes, encrypts the recorded data, and provides a secure way to view and manage logs. The program runs in the background, allows starting and stopping at any time, and displays decrypted logs in a separate window when requested.
 
 Features
